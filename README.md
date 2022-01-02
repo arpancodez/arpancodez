@@ -12,9 +12,9 @@
 
 <br/>
 
-<!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
+<!-- ![Discord](https://discord.c99.nl/widget/theme-1/836471571786104873.png) -->
 <a href="https://discord.com/users/836471571786104873">
-<img src="https://discord.c99.nl/widget/theme-3/8364715717861048737.png" alt="Discord"/>
+<img src="https://discord.c99.nl/widget/theme-1/836471571786104873.png" alt="Discord"/>
 </a>
 
 Hey, I'm NotAditya, Discord Bot Developer, Website Developer and Gamer!
