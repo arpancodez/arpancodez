@@ -1,4 +1,4 @@
-### Hi there 👋, I'm FiredragonPlayz!
+### Hi there 👋, I'm Aditya!
 
 <br/>
 <a href="https://discord.com/users/836471571786104873" target="_blank" >
