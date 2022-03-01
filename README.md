@@ -5,7 +5,7 @@
     <img align ="left" alt="NotAditya's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
   <a href="https://github.com/NotAditya69" target="_blank">
-    <img align ="left" alt="FiredragonPlayz's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img align ="left" alt="NotAditya's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 
 ![]()
@@ -21,8 +21,8 @@ Hey, I'm NotAditya, Discord Bot Developer, Website Developer and Gamer!
 
  **Information:**
 
-- 🔭 I’m currently working on  **Discord Bot Named Levi Ackerman**
-- 🌱 I’m currently learning  **JavaSrcipt, HTML, CSS, Express and Sveltekit**
+- 🔭 I’m currently working on  **Discord Bot Named Xeone**
+- 🌱 I’m currently learning  **PostgreSql, Angular and sanity.io**
 
 **Projects**
 
