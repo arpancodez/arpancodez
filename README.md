@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Aditya!
 
 <br/>
-<a href="https://discord.com/users/836471571786104873" target="_blank" >
+<a href="https://discord.com/users/602900188549611543" target="_blank" >
     <img align ="left" alt="NotAditya's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
   <a href="https://github.com/NotAditya69" target="_blank">
@@ -13,30 +13,18 @@
 <br/>
 
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/836471571786104873.png) -->
-<a href="https://discord.com/users/836471571786104873">
-<img src="https://discord.c99.nl/widget/theme-3/836471571786104873.png" alt="Discord"/>
+<a href="https://discord.com/users/602900188549611543">
+<img src="https://discord.c99.nl/widget/theme-3/602900188549611543.png" alt="Discord"/>
 </a>
 
-Hey, I'm NotAditya, Discord Bot Developer, Website Developer and Gamer!
+Hey, I'm NotAditya, A very good procrastinator
 
  **Information:**
 
-- 🔭 I’m currently working on  **Discord Bot Named Xeone**
-- 🌱 I’m currently learning  **PostgreSql, Angular and sanity.io**
+- 🔭 I’m currently working on  **Xeone**
+- 🌱 I’m currently learning  **Rust and Golang**
 
 **Projects**
 
 - [Levi Ackerman](https://top.gg/bot/876850171399536671)
-
-**Stats:**  
-
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DeltaCoderr&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=NotAditya69&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotAditya69&theme=tokyonight&hide=batchfile">
-
-
-
-
-<a href="https://github.com/NotAditya69/djs-bot-template">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NotAditya69&repo=djs-bot-template&theme=dracula" alt="Discord" width="400"/>
-</a>
+- [Galaxies](https://top.gg/bot/814441758037377045)
