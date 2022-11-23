@@ -1,11 +1,11 @@
-### Hi there 👋, I'm Aditya!
+### Hi there 👋, I'm Xeno!
 
 <br/>
 <a href="https://discord.com/users/602900188549611543" target="_blank" >
-    <img align ="left" alt="NotAditya's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+    <img align ="left" alt="Xeno's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
-  <a href="https://github.com/NotAditya69" target="_blank">
-    <img align ="left" alt="NotAditya's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <a href="https://github.com/Xenofic" target="_blank">
+    <img align ="left" alt="Xeno's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 
 ![]()
@@ -17,7 +17,7 @@
 <img src="https://discord.c99.nl/widget/theme-3/602900188549611543.png" alt="Discord"/>
 </a>
 
-Hey, I'm NotAditya, A very good procrastinator
+Hey, I'm Xeno, A very good procrastinator
 
  **Information:**
 
