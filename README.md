@@ -22,7 +22,7 @@ Hey, I'm Xeno, A very good procrastinator
  **Information:**
 
 - 🔭 I’m currently working on  **Xeone**
-- 🌱 I’m currently learning  **Rust and Golang**
+- 🌱 I’m currently learning  **Rust and Kotlin**
 
 **Projects**
 
