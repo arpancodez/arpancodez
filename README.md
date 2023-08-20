@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Xeno!
 
 <br/>
-<a href="https://discord.com/users/602900188549611543" target="_blank" >
+<a href="https://discord.com/users/1071843392268546068" target="_blank" >
     <img align ="left" alt="Xeno's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
   <a href="https://github.com/Xenofic" target="_blank">
@@ -13,7 +13,7 @@
 <br/>
 
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/836471571786104873.png) -->
-<a href="https://discord.com/users/602900188549611543">
+<a href="https://discord.com/users/1071843392268546068">
 <img src="https://discord.c99.nl/widget/theme-3/602900188549611543.png" alt="Discord"/>
 </a>
 
