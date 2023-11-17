@@ -26,5 +26,5 @@ Hey, I'm Xeno, A very good procrastinator
 
 **Projects**
 
-- [Levi Ackerman](https://top.gg/bot/876850171399536671)
+- [Flantic](https://flantic.gg/)
 - [Galaxies](https://top.gg/bot/814441758037377045)
