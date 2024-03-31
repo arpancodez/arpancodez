@@ -28,3 +28,5 @@ Hey, I'm Xeno, A very good procrastinator
 
 - [Flantic](https://flantic.gg/)
 - [Galaxies](https://top.gg/bot/814441758037377045)
+
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001614.c50c3903b522419ba418a38b29951dd6.1524)](https://github.com/rayriffy/apple-music-github-profile)
