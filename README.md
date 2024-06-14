@@ -13,8 +13,8 @@
 <br/>
 
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/836471571786104873.png) -->
-<a href="https://discord.com/users/1071843392268546068">
-<img src="https://discord.c99.nl/widget/theme-3/1071843392268546068.png" alt="Discord"/>
+<a href="https://discord.com/users/928535547184574495">
+<img src="https://discord.c99.nl/widget/theme-3/928535547184574495.png" alt="Discord"/>
 </a>
 
 Hey, I'm Xeno, A very good procrastinator
