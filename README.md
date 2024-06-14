@@ -29,4 +29,4 @@ Hey, I'm Xeno, A very good procrastinator
 - [Aware](https://awarebot.pro/)
 - [Nirvana](https://top.gg/bot/104468839005966396)
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001614.c50c3903b522419ba418a38b29951dd6.1524)](https://github.com/rayriffy/apple-music-github-profile)
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=arpancodez&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=stars" />
