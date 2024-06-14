@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Arpan!
+### Hi there 👋, I'm Arpan! ![](https://komarev.com/ghpvc/?username=ftpskid)
 
 <br/>
 <a href="https://discord.com/users/928535547184574495" target="_blank" >
