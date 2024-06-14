@@ -17,7 +17,7 @@
 <img src="https://discord.c99.nl/widget/theme-3/928535547184574495.png" alt="Discord"/>
 </a>
 
-Hey, I'm Xeno, A very good procrastinator
+Hey, I'm Arpan, A very good procrastinator
 
  **Information:**
 
