@@ -1,11 +1,11 @@
-### Hi there 👋, I'm Xeno!
+### Hi there 👋, I'm Arpan!
 
 <br/>
-<a href="https://discord.com/users/1071843392268546068" target="_blank" >
-    <img align ="left" alt="Xeno's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://discord.com/users/928535547184574495" target="_blank" >
+    <img align ="left" alt="Arpan's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
-  <a href="https://github.com/Xenofic" target="_blank">
-    <img align ="left" alt="Xeno's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <a href="https://github.com/arpancodez" target="_blank">
+    <img align ="left" alt="Arpan's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 
 ![]()
@@ -21,12 +21,12 @@ Hey, I'm Xeno, A very good procrastinator
 
  **Information:**
 
-- 🔭 I’m currently working on  **Xeone**
-- 🌱 I’m currently learning  **Rust and Kotlin**
+- 🔭 I’m currently working on  **Chocky**
+- 🌱 I’m currently learning  **Go and Kotlin**
 
 **Projects**
 
-- [Flantic](https://flantic.gg/)
-- [Galaxies](https://top.gg/bot/814441758037377045)
+- [Aware](https://awarebot.pro/)
+- [Nirvana](https://top.gg/bot/104468839005966396)
 
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001614.c50c3903b522419ba418a38b29951dd6.1524)](https://github.com/rayriffy/apple-music-github-profile)
