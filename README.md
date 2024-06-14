@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Arpan! ![](https://komarev.com/ghpvc/?username=ftpskid)
+### Hi there 👋, I'm Arpan! ![](https://komarev.com/ghpvc/?username=arpancodez)
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/836471571786104873.png) -->
 <a href="https://discord.com/users/928535547184574495">
 <img src="https://discord.c99.nl/widget/theme-3/928535547184574495.png" alt="Discord"/>
