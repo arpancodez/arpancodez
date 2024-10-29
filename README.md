@@ -8,12 +8,12 @@ Hey, I'm Arpan, A very good procrastinator
 
  **Information:**
 
-- 🔭 I’m currently working on  **Chocky**
-- 🌱 I’m currently learning  **Go and Kotlin**
+- 🔭 I’m currently working on  **[Grave](https://gravebot.xyz)**
+- 🌱 I’m currently learning  **Python and Rust**
 
 **Projects**
 
 - [Aware](https://awarebot.pro/)
-- [Nirvana](https://top.gg/bot/104468839005966396)
+- [Grave](https://gravebot.xyz)
 
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=arpancodez&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=stars" />
