@@ -16,4 +16,21 @@ Hey, I'm Arpan, A very good procrastinator
 - [Aware](https://awarebot.pro/)
 - [Grave](https://gravebot.xyz)
 
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=arpancodez&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=stars" />
+## 📊 GitHub Stats
+
+<div align="center"> 
+  <a href="https://github.com/arpancodez#gh-dark-mode-only">
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=arpancodez&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
+      alt="My GitHub stats"
+      height="370"
+    />
+  </a>
+  <a href="https://github.com/arpancodez#gh-dark-mode-only">
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=arpancodez&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
+      alt="My Language stats"
+      height="370"
+    />
+  </a>
+</div>
