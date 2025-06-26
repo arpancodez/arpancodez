@@ -9,7 +9,7 @@ Hey, I'm Arpan, A very good procrastinator
  **Information:**
 
 - 🔭 I’m currently working on  **[Grave](https://gravebot.xyz)**
-- 🌱 I’m currently learning  **Python and Rust**
+- 🌱 I’m currently learning  **Python and Ts**
 
 **Projects**
 
