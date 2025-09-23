@@ -11,11 +11,7 @@
 </div>
 
 <!-- Discord Live Rich Presence -->
-<div align="left">
-  <a href="https://discord.com/users/1166647094535262300">
-    <img src="https://lanyard.cnrad.dev/api/1166647094535262300" alt="Discord Live Presence" width="400" />
-  </a>
-</div>
+![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1166647094535262300?theme=dracula&bg=1e1e2e&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20writing%20some%20code...)
 
 <!-- Streak stats (Dark mode) -->
 <div align="left">
