@@ -11,7 +11,7 @@
 </div>
 
 <!-- Discord Live Rich Presence -->
-![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1166647094535262300?theme=dracula&bg=1e1e2e&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20writing%20some%20code...)
+![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1166647094535262300?theme=dracula&bg=1e1e2e&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...)
 
 <!-- Streak stats (Dark mode) -->
 <div align="left">
