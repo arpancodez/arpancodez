@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Arpan! ![](https://komarev.com/ghpvc/?username=arpancodez)
 
-🚀 Actively claiming GitHub achievement badges by contributing to the community!
-
 💻 Building projects and learning new technologies daily.
 
 <!-- Discord Live Rich Presence -->
