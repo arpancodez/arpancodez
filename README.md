@@ -14,6 +14,6 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xenofic&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenofic&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arpancodez&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpancodez&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
